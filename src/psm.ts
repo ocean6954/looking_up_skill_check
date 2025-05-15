@@ -1,5 +1,5 @@
 import { judgeCross } from "./judgeCross";
-import { PSMResults } from "./calculate";
+import { PSMResults } from "./calculateRatios";
 
 type Data = {
   x: number;
